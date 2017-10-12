@@ -1,4 +1,14 @@
 
+.navbar-default .container-fluid {
+
+	background-color: #4267b2;
+	border-radius: 0;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: white;
+}
+
 /* Formulario contacto */
 form {
     
@@ -48,7 +58,7 @@ button {
 
 	float: left;
 	width: 40%;
-	margin-left: 130px;
+	margin-left: 100px;
 
 }
 .logo2{
@@ -60,4 +70,9 @@ button {
 body {
 
 	background-color: #f0f1f3;
+}
+.pequeña{
+
+	width: 30px;
+	height: 30px;
 }
