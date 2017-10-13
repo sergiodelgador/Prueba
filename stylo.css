@@ -54,25 +54,42 @@ button {
 
     margin-left: .5em;
 }
-.logo {
 
-	float: left;
-	width: 40%;
-	margin-left: 100px;
-
-}
-.logo2{
-
-	float: right;
-	width: 50%;
-	padding-top: 30px; 
-}
 body {
-
+	padding: 50px;
 	background-color: #f0f1f3;
 }
 .pequeña{
 
 	width: 30px;
 	height: 30px;
+}
+
+.row h1 {
+	width: 80%;
+	font-size: 15pt;
+}
+.row h2{
+	width: 80%;
+	font-size: 30pt;
+	text-align: center;
+
+}
+.row h3{
+
+	width: 80%;
+	font-size: 20pt;
+	text-align: center;
+
+}
+.row h4{
+	width: 80%;
+	font-size: 15pt;
+	text-align: center;
+
+}
+
+.img-responsive {
+
+    padding: 20px;
 }
